@@ -1,2 +1,2 @@
 # StudyHelper
-Android Study Helper app that I completed using the Zybooks Textbook.
+Android Study Helper app that I completed using the zyBooks Textbook.
